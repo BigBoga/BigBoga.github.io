@@ -3,7 +3,7 @@ myHeading.textContent = "Hello World";
 var ButtonNick = document.getElementById("NickChange")
 
 document.querySelector("html").oncontextmenu = function(){
-    alert("sex")
+   
 }
 
 function setUserName(){
@@ -24,3 +24,5 @@ else{
 ButtonNick.onclick = function(){
     setUserName();
 }
+
+alert("joined")
