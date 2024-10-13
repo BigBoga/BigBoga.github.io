@@ -24,5 +24,3 @@ else{
 ButtonNick.onclick = function(){
     setUserName();
 }
-
-C:\Users\nlogi\Documents\Programming\Sites\ttt.html
