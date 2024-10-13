@@ -1,0 +1,30 @@
+html{
+    font-family: Montserrat;
+    background-color:beige;
+}
+
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: aliceblue;
+    font-size: 60px;
+    text-align: center;
+    background-color: blueviolet;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#NickChange{
+    font-family: Montserrat;
+    margin: 15px auto; 
+    display: block;
+    font-size: 60px;
+}
+
+.pidor {
+    color: chocolate;
+}
